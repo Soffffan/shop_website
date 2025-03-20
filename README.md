@@ -1,12 +1,40 @@
-# React + Vite
+# Проект Интернет-Магазина
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Этот проект представляет собой интернет-магазин, созданный с использованием React и JSON-сервера для управления данными.
 
-Currently, two official plugins are available:
+## Установка и запуск проекта
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Клонирование репозитория
 
-## Expanding the ESLint configuration
+1. **Клонируйте репозиторий на свой локальный компьютер:**
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+   ```bash
+   git clone https://github.com/Soffffan/shop_website
+   ```
+2. **Перейдите в директорию проекта:**
+
+```bash
+cd название-проекта
+```
+3. **Установка зависимостей**
+Установите все необходимые зависимости, выполнив команду:
+
+```bash
+npm install
+```
+4. **Запуск JSON-сервера**
+Запустите JSON-сервер для управления данными:
+
+```bash
+npx json-server --watch public/data.json --port 3001
+```
+
+Этот сервер будет работать на порту 3001 и использовать файл public/data.json в качестве источника данных.
+
+5. **Запуск интернет-магазина**
+В отдельном терминале запустите разработческий сервер React:
+
+```bash
+npm run dev
+```
+Это запустит приложение, и оно станет доступно в браузере по адресу http://localhost:5173 (или другому, если порт занят).
