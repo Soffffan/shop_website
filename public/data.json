@@ -1,0 +1,274 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Пикачу",
+        "price": 45000,
+        "description": "Электрическая мышь",
+        "image": "https://i.pinimg.com/736x/70/dc/39/70dc393c1dde6926c843cc4b460eb676.jpg",
+        "category": "покемоны",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "title": "Иви",
+        "price": 60000,
+        "description": " маленький коренастый четвероногий покемон коричневого окраса и с очень милой внешностью",
+        "image": "https://i.pinimg.com/736x/ea/68/d5/ea68d52a84e184936fe59ae28432ecc9.jpg",
+        "category": "покемоны",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "title": "Гастли",
+        "price": 25000,
+        "description": "Гастли имеет форму шара чёрного цвета",
+        "image": "https://i.pinimg.com/736x/27/b7/fd/27b7fd631e716d466fda4299b0864fce.jpg",
+        "category": "покемоны",
+        "rating": 4.9
+      },
+      {
+        "id": 4,
+        "title": "Абра",
+        "price": 3000,
+        "description": "Маленький человекоподобный двуногий покемон, в основном золотисто-коричневого цвета",
+        "image": "https://i.pinimg.com/736x/ef/c6/13/efc613fe83b6de63f02e5c4761457357.jpg",
+        "category": "покемоны",
+        "rating": 4.6
+      },
+      {
+        "id": 5,
+        "title": "Псайдак",
+        "price": 55000,
+        "description": "Жёлтый покемон, напоминающий утку или двуногого утконоса, у него постоянно болит голова",
+        "image": "https://i.pinimg.com/736x/f7/01/87/f701877b91e898db844eab859dedcab3.jpg",
+        "category": "покемоны",
+        "rating": 4.8
+      },
+      {
+        "id": 6,
+        "title": "Мью",
+        "price": 15000000000,
+        "description": "Легендарный розовый двуногий покемон с чертами млекопитающих",
+        "image": "https://i.pinimg.com/736x/d2/8b/2d/d28b2ddbd473cde4433d6f4510efcb77.jpg",
+        "category": "покемоны",
+        "rating": 5.0
+      },
+      {
+        "id": 7,
+        "title": "Джиглипуф",
+        "price": 40000,
+        "description": "Маленький розовый шарик, своим пением усыпляет всех вокруг",
+        "image": "https://i.pinimg.com/736x/c4/8d/ca/c48dca09ee568e99c80a4868bb1fff43.jpg",
+        "category": "покемоны",
+        "rating": 4.7
+      },
+      {
+        "id": 8,
+        "title": "Чикорита",
+        "price": 5000,
+        "description": "Маленький четвероногий покемон бледно-зелёного цвета с темно-зелёными бутонами на шее",
+        "image": "https://i.pinimg.com/736x/20/2f/96/202f961725be90bc917cf89a215d3738.jpg",
+        "category": "покемоны",
+        "rating": 4.8
+      },
+      {
+        "id": 9,
+        "title": "Дитто",
+        "price": 7000,
+        "description": "Простая розовато-пурпурная аморфная капля с двумя маленькими точками в виде глаз и длинным изогнутым ртом. Умеет принимать облик любого покемоны",
+        "image": "https://i.pinimg.com/736x/90/96/66/909666407e36894fe1c83d1bad9cf52a.jpg",
+        "category": "покемоны",
+        "rating": 4.7
+      },
+      {
+        "id": 10,
+        "title": "Снаббл",
+        "price": 8000,
+        "description": "Розовый двуногий покемон, похожий на бульдога, с синими горошинами",
+        "image": "https://i.pinimg.com/474x/af/5d/b0/af5db077a57ec48cf7726bb808385e1e.jpg",
+        "category": "покемоны",
+        "rating": 4.6
+      },
+      {
+        "id": 11,
+        "title": "Покедекс",
+        "price": 1500,
+        "description": "электронный девайс, являющийся каталогом информации о различных видах покемонов",
+        "image": "https://i.pinimg.com/736x/c7/d3/83/c7d383b5d2a865bc4ff79af74c7f5655.jpg",
+        "category": "дополнительно",
+        "rating": 4.9
+      },
+      {
+        "id": 12,
+        "title": "Значок 'Покемон'",
+        "price": 300,
+        "description": "Металический значок",
+        "image": "https://i.pinimg.com/736x/ca/7d/ee/ca7deea90c9bcd31f4d3120aa2c0c80a.jpg",
+        "category": "дополнительно",
+        "rating": 4.6
+      },
+      {
+        "id": 13,
+        "title": "Рюкзак",
+        "price": 1000,
+        "description": "Вместительный рюкзак коричневого цвета",
+        "image": "https://img.freepik.com/premium-vector/pixel-art-illustration-backpack-pixelated-backpack-school-backpack-bag-pixelated-pixel-art_1038602-1071.jpg",
+        "category": "дополнительно",
+        "rating": 4.7
+      },
+      {
+        "id": 14,
+        "title": "Веревка",
+        "price": 800,
+        "description": "Веревка 5м",
+        "image": "https://img.freepik.com/premium-vector/rope-ties-pixel-art-style_475147-1461.jpg",
+        "category": "дополнительно",
+        "rating": 4.8
+      },
+      {
+        "id": 15,
+        "title": "Сэндвич в дорогу",
+        "price": 450,
+        "description": "Хранится около 7 дней",
+        "image": "https://i.pinimg.com/736x/7f/b9/14/7fb914d40853c8abf57140f3c371baed.jpg",
+        "category": "дополнительно",
+        "rating": 4.6
+      },
+      {
+        "id": 16,
+        "title": "Стейк",
+        "price": 4000,
+        "description": "Отлично подойдет для хищных покемонов",
+        "image": "https://i.pinimg.com/736x/82/f4/41/82f441b1a73c9a178d056628f1b09ca8.jpg",
+        "category": "дополнительно",
+        "rating": 4.7
+      },
+      {
+        "id": 17,
+        "title": "Бутылка воды маленькая",
+        "price": 90,
+        "description": "Вместимость 0.5л",
+        "image": "https://i.pinimg.com/736x/51/1d/e5/511de516d896395e404ba540c69de467.jpg",
+        "category": "дополнительно",
+        "rating": 4.8
+      },
+      {
+        "id": 18,
+        "title": "Бутылка воды большая",
+        "price": 180,
+        "description": "Вместимость 1л",
+        "image": "https://i.pinimg.com/736x/51/1d/e5/511de516d896395e404ba540c69de467.jpg",
+        "category": "дополнительно",
+        "rating": 4.5
+      },
+      {
+        "id": 19,
+        "title": "Швейцарский нож",
+        "price": 1200,
+        "description": "Надежный как швейцарские часы",
+        "image": "https://i.pinimg.com/736x/f5/40/9a/f5409afaf84809b6c6e1921ec3646b11.jpg",
+        "category": "дополнительно",
+        "rating": 4.7
+      },
+      {
+        "id": 20,
+        "title": "Спальный мешок",
+        "price": 1500,
+        "description": "Одноместный",
+        "image": "https://i.pinimg.com/736x/7f/70/f9/7f70f98b7976878284977468e446b902.jpg",
+        "category": "дополнительно",
+        "rating": 4.6
+      },
+      {
+        "id": 21,
+        "title": "Покебол",
+        "price": 500,
+        "description": "Стандартный покебол можно получить в покецентре",
+        "image": "https://i.pinimg.com/736x/df/a1/8a/dfa18afa349051a7f078602fe3059524.jpg",
+        "category": "покеболы",
+        "rating": 4.9
+      },
+      {
+        "id": 22,
+        "title": "Мегабол",
+        "price": 600,
+        "description": "Более усовершенствованная и дорогая версия Покебола",
+        "image": "https://i.pinimg.com/736x/7c/b9/fd/7cb9fd49f105f3d172f06c62c7ad1cec.jpg",
+        "category": "покеболы",
+        "rating": 4.8
+      },
+      {
+        "id": 23,
+        "title": "Ультрабол",
+        "price": 700,
+        "description": "Самый мощный из стандартных боллов",
+        "image": "https://i.pinimg.com/736x/6a/e1/9d/6ae19dad28e577a8770fb22e1c2c589a.jpg",
+        "category": "покеболы",
+        "rating": 4.9
+      },
+      {
+        "id": 24,
+        "title": "Мастербол",
+        "price": 8000,
+        "description": "Чрезвычайно редкая модель, секретная разработка корпорации Сильф",
+        "image": "https://i.pinimg.com/736x/ab/27/d0/ab27d0304231f301aac9fb7b9d012cfe.jpg",
+        "category": "покеболы",
+        "rating": 4.7
+      },
+      {
+        "id": 25,
+        "title": "Сафарибол",
+        "price": 550,
+        "description": "Создан на основе Мегаболов для использования в Зоне Сафари",
+        "image": "https://i.ebayimg.com/images/g/6QEAAOSwcHRjJsrj/s-l400.jpg",
+        "category": "покеболы",
+        "rating": 4.8
+      },
+      {
+        "id": 26,
+        "title": "Левелбол",
+        "price": 400,
+        "description": "Один из особых покеболов изготавливается из красного априкорна",
+        "image": "https://pm1.aminoapps.com/6234/c0b4db7e54c997f75a96f0fbebcd93ac1f320b22_hq.jpg",
+        "category": "покеболы",
+        "rating": 4.9
+      },
+      {
+        "id": 27,
+        "title": "Мунбол",
+        "price": 650,
+        "description": "Один из особых покеболов изготавливается из желтого априкорна",
+        "image": "https://i.ebayimg.com/images/g/MOQAAOSwF0pjJsrb/s-l400.jpg",
+        "category": "покеболы",
+        "rating": 4.7
+      },
+      {
+        "id": 28,
+        "title": "Лавбол",
+        "price": 750,
+        "description": "Один из особых покеболов изготавливается из розового априкорн",
+        "image": "https://i.ebayimg.com/images/g/p-QAAOSwUWJjJsrq/s-l400.jpg",
+        "category": "покеболы",
+        "rating": 4.8
+      },
+      {
+        "id": 29,
+        "title": "Хилболл",
+        "price": 900,
+        "description": "Обычный покеболл, который в момент ловли полностью воостанавливает здоровье и атаки покемона.",
+        "image": "https://i.ebayimg.com/images/g/MxIAAOSwoiBjJstt/s-l1200.jpg",
+        "category": "покеболы",
+        "rating": 4.7
+      },
+      {
+        "id": 30,
+        "title": "Хевибол",
+        "price": 850,
+        "description": "Один из особых покеболов изготавливается из черного априкорна",
+        "image": "https://pm1.aminoapps.com/6235/c8f39d91d77e6ebb8d1b20892ac45c50564af44a_00.jpg",
+        "category": "покеболы",
+        "rating": 4.8
+      }
+    ]
+  }
